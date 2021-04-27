@@ -34,17 +34,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unrealvalentin&" alt="unrealvalentin" /></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My Github Data** 
 
-> 🏆 16 Contributions in the Year 2021
+> 🏆 17 Contributions in the Year 2021
  > 
 > 📦 519.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 28 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
