@@ -34,4 +34,77 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unrealvalentin&" alt="unrealvalentin" /></p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 16 Contributions in the Year 2021
+ > 
+> 📦 519.8 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 32 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.62% 
+🌆 Daytime    66 commits     ████████████░░░░░░░░░░░░░   50.77% 
+🌃 Evening    54 commits     ██████████░░░░░░░░░░░░░░░   41.54% 
+🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.92% 
+Tuesday      59 commits     ███████████░░░░░░░░░░░░░░   45.38% 
+Wednesday    23 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.69% 
+Thursday     18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
+Friday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.62% 
+Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77% 
+Sunday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.77%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     8 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/UnrealValentin/UnrealValentin/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
