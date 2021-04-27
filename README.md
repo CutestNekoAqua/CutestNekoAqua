@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unrealvalentin&show_icons=true&locale=en" alt="unrealvalentin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unrealvalentin&" alt="unrealvalentin" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
