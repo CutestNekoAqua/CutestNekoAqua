@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 63 Contributions in the Year 2021
+> 🏆 64 Contributions in the Year 2021
  > 
 > 📦 519.9 kB Used in Github's Storage 
  > 
@@ -75,18 +75,16 @@ Sunday       15 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     5 mins              █████████████████████████   99.92% 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-circuitry                4 mins              ██████████████████████░░░   88.87% 
-OreModule                0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   11.13%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
