@@ -75,18 +75,16 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     3 mins              █████████████████████████   99.67% 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-RoleBot                  2 mins              ██████████████████░░░░░░░   74.46% 
-AskRay                   0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.54%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -107,5 +105,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/UnrealValentin/UnrealValentin/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2021
+ Last Updated on 07/09/2021
 <!--END_SECTION:waka-->
