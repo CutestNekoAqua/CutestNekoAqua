@@ -34,11 +34,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unrealvalentin&" alt="unrealvalentin" /></p>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 140 Contributions in the Year 2021
  > 
-> 📦 544.2 kB Used in Github's Storage 
+> 📦 544.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,16 +75,19 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     44 mins             ██████████████░░░░░░░░░░░   56.77% 
+Other                    28 mins             █████████░░░░░░░░░░░░░░░░   36.74% 
+Groovy                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.49%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 17 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+untitled1                54 mins             █████████████████░░░░░░░░   69.67% 
+Unknown Project          23 mins             ███████░░░░░░░░░░░░░░░░░░   30.33%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 17 mins        █████████████████████████   100.0%
 
 ```
 
@@ -105,5 +108,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/UnrealValentin/UnrealValentin/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
