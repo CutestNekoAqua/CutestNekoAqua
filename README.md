@@ -36,13 +36,13 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 147 Contributions in the Year 2021
+> 🏆 146 Contributions in the Year 2021
  > 
-> 📦 544.3 kB Used in GitHub's Storage 
+> 📦 544.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 37 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
@@ -75,17 +75,17 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     19 mins             ████████████████████████░   99.29% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
+Java                     31 mins             █████████████████████████   99.56% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
 
 🔥 Editors: 
-IntelliJ                 19 mins             █████████████████████████   100.0%
+IntelliJ                 31 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-File Crypt               19 mins             █████████████████████████   100.0%
+File Crypt               31 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.0%
+Windows                  31 mins             █████████████████████████   100.0%
 
 ```
 
@@ -106,5 +106,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/UnrealValentin/UnrealValentin/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/10/2021
+ Last Updated on 27/10/2021
 <!--END_SECTION:waka-->
