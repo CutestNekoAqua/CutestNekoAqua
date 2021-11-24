@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unrealvalentin" alt="unrealvalentin" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sockenet" target="blank"><img src="https://img.shields.io/twitter/follow/sockenet?logo=twitter&style=for-the-badge" alt="sockenet" /></a><img src="https://raw.githubusercontent.com/UnrealValentin/UnrealValentin/main/49sZDrVkFEaUr9HQr_.png" alt="Donate XMR" /></p> 
+<p align="left"> <a href="https://twitter.com/sockenet" target="blank"><img src="https://img.shields.io/twitter/follow/sockenet?logo=twitter&style=for-the-badge" alt="sockenet" /></a><img src="https://raw.githubusercontent.com/UnrealValentin/UnrealValentin/main/49sZDrVkFEaUr9HQr_.png" alt="Donate XMR" style="width:200px;height:200px;"/></p> 
 
 - 🔭 I’m currently working on [HMCore](https://github.com/HMCore)
 
