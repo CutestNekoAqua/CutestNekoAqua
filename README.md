@@ -36,13 +36,13 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 151 Contributions in the Year 2021
+> 🏆 152 Contributions in the Year 2021
  > 
-> 📦 550.9 kB Used in GitHub's Storage 
+> 📦 551.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
@@ -91,11 +91,11 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     11 repos            █████████░░░░░░░░░░░░░░░░   37.93% 
-JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
+Java                     12 repos            ██████████░░░░░░░░░░░░░░░   40.0% 
+JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 
@@ -105,5 +105,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/UnrealValentin/UnrealValentin/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/11/2021
+ Last Updated on 28/11/2021
 <!--END_SECTION:waka-->
