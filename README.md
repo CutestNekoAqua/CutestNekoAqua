@@ -34,8 +34,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unrealvalentin&" alt="unrealvalentin" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%207%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 165 Contributions in the Year 2021
@@ -77,16 +75,17 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+GAP                      1 hr 25 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Godot                    1 hr 25 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Amusement                46 mins             █████████████░░░░░░░░░░░░   53.89% 
+VR Starter Tutorial Compl39 mins             ███████████░░░░░░░░░░░░░░   46.11%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 25 mins        █████████████████████████   100.0%
 
 ```
 
@@ -107,5 +106,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/UnrealValentin/UnrealValentin/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/12/2021
+ Last Updated on 25/12/2021
 <!--END_SECTION:waka-->
