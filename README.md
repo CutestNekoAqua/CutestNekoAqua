@@ -36,13 +36,13 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 20 Contributions in the Year 2022
+> 🏆 21 Contributions in the Year 2022
  > 
-> 📦 552.7 kB Used in GitHub's Storage 
+> 📦 554.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 41 Public Repositories 
+> 📜 42 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
@@ -91,11 +91,11 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     15 repos            ██████████░░░░░░░░░░░░░░░   41.67% 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+Java                     15 repos            ██████████░░░░░░░░░░░░░░░   40.54% 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.22% 
+C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
+Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
 
 ```
 
@@ -105,5 +105,5 @@ Go                       3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CutestNekoAqua/CutestNekoAqua/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/03/2022 20:40:31 UTC
+ Last Updated on 15/03/2022 20:40:10 UTC
 <!--END_SECTION:waka-->
