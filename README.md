@@ -34,6 +34,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cutestnekoaqua&" alt="cutestnekoaqua" /></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 25 Contributions in the Year 2022
@@ -105,5 +107,5 @@ Go                       3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CutestNekoAqua/CutestNekoAqua/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 20:42:40 UTC
+ Last Updated on 07/05/2022 20:42:05 UTC
 <!--END_SECTION:waka-->
