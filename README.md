@@ -29,7 +29,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cutestnekoaqua&" alt="cutestnekoaqua" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2027%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -43,6 +43,48 @@
  > 
 > 🔑 6 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+🌆 Daytime    21 commits     ████████████████░░░░░░░░░   65.62% 
+🌃 Evening    5 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
+🌙 Night      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       5 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
+Tuesday      7 commits      █████░░░░░░░░░░░░░░░░░░░░   21.88% 
+Wednesday    3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+Thursday     6 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+Friday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
+Saturday     8 commits      ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Sunday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -60,5 +102,5 @@ Go                       3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CutestNekoAqua/CutestNekoAqua/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 20:43:53 UTC
+ Last Updated on 05/09/2022 20:44:23 UTC
 <!--END_SECTION:waka-->
