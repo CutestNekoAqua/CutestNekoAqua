@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cutestnekoaqua&label=Profile%20views&color=0e75b6&style=flat" alt="cutestnekoaqua" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cutestnekoaqua" alt="cutestnekoaqua" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cutestnekoaqua&theme=dracula" alt="cutestnekoaqua" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/waterdevcleo" target="blank"><img src="https://img.shields.io/twitter/follow/waterdevcleo?logo=twitter&style=for-the-badge" alt="waterdevcleo" /></a><img src="https://raw.githubusercontent.com/cutestnekoaqua/cutestnekoaqua/main/49sZDrVkFEaUr9HQr_.png" alt="Donate XMR" style="width:200px;height:200px;"/></p> 
 
