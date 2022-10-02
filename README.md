@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/waterdevcleo" target="blank"><img src="https://img.shields.io/twitter/follow/waterdevcleo?logo=twitter&style=for-the-badge" alt="waterdevcleo" /></a><img src="https://raw.githubusercontent.com/cutestnekoaqua/cutestnekoaqua/main/49sZDrVkFEaUr9HQr_.png" alt="Donate XMR" style="width:200px;height:200px;"/></p> 
 
+[![@waterdev's Holopin board](https://holopin.io/api/user/board?user=waterdev)](https://holopin.io/@waterdev)
+
 - 🔭 I’m currently working on [nothing](https://en.wikipedia.com/wiki/Hibernation)
 
 - 🌱 I’m currently learning **various programming languages.**
